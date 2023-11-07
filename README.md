@@ -3,11 +3,11 @@
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-- 🌱 I’m currently learning **TailwindCSS**
+- 🌱 I’m currently learning : **TailwindCSS**
 
-- 💬 Ask me about **React , JavaScript ,**
+- 💬 Ask me about : **React , JavaScript , HTML/CSS**
 
-- 📫 How to reach me **sohommondalofficial@gmail.com**
+- 📫 How to reach me : **sohommondalofficial@gmail.com**
 
 
 ## 🌐 Socials:
