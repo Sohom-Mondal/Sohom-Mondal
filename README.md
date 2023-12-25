@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/skatetocat.png">
 
 # 💫 About Me:
-🔭 I’m currently working on MoonstoneUI.<br>👯 I’m looking to collaborate on fullstack or frontend web projects.<br>🤝 I’m looking for help with Node.js & MongoDB.<br>🌱 I’m currently learning Next.js & CSS3.<br>💬 Ask me about frontend development, UI/UX designs & AI.<br>⚡ Fun fact: React hooks teases me the most.
+🔭 I’m currently working on MoonstoneUI.<br>👯 I’m looking to collaborate on fullstack or frontend web projects.<br>🤝 I’m looking for help with Node.js & MongoDB.<br>🌱 I’m currently learning Next.js & CSS3.<br>💬 Ask me about frontend development, UI/UX designs & AI.<br>⚡ Fun fact: React hooks tease me the most.
 
 
 ## 🌐 Socials:
