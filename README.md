@@ -20,7 +20,7 @@
 <hr>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 ## 💰 You can help me by Donating
