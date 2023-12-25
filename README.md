@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sohom Mondal</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
+<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/skatetocat.png">
 
 # 💫 About Me:
 🔭 I’m currently working on MoonstoneUI.<br>👯 I’m looking to collaborate on fullstack or frontend web projects.<br>🤝 I’m looking for help with Node.js & MongoDB.<br>🌱 I’m currently learning Next.js & CSS3.<br>💬 Ask me about frontend development, UI/UX designs & AI.<br>⚡ Fun fact: React hooks teases me the most.
